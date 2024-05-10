@@ -2,8 +2,8 @@
   "userActivityRecords": [
     {
       "activityId": 101,
-      "userId": "ahmedt10",
-      "emailId": "tanveer.ahmedv@cat.com",
+      "userId": "User123",
+      "emailId": "test123@gmail.com",
       "appUserRole": "Admin",
       "appName": "CDM",
       "bussinessUnit": "E&T",
@@ -38,8 +38,8 @@
     },
     {
       "activityId": 105,
-      "userId": "manojb",
-      "emailId": "manoj.b1@cat.com",
+      "userId": "User234",
+      "emailId": "test234@gmail.com",
       "appUserRole": "viewer",
       "appName": "CDM",
       "bussinessUnit": "E&T",
@@ -108,8 +108,8 @@
     },
     {
       "activityId": 102,
-      "userId": "sarmila",
-      "emailId": "sarmila.chandra@cat.com",
+      "userId": "User456",
+      "emailId": "user456@gmail.com",
       "appUserRole": "Supplier",
       "appName": "CDM",
       "bussinessUnit": "E&T",
@@ -144,8 +144,8 @@
     },
     {
       "activityId": 102,
-      "userId": "sarmila",
-      "emailId": "sarmila.chandra@cat.com",
+      "userId": "user678",
+      "emailId": "test678@gmail.com",
       "appUserRole": "Supplier",
       "appName": "CDM",
       "bussinessUnit": "E&T",
